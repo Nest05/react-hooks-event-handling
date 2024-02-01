@@ -18,6 +18,7 @@ function ChangeItUp() {
         <option value="all">Select a filter...</option>
         <option value="completed">Completed</option>
         <option value="incomplete">Incomplete</option>
+        <option value="nest">Nest05</option>
       </select>
     </div>
   );
